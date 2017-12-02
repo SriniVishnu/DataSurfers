@@ -4,8 +4,7 @@
 
 1. Introduction
 2. Members
-4. Projected Effort Allocation
-5. Target Audience
+3. Contents
 
 
 
